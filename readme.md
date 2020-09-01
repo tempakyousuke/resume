@@ -64,9 +64,9 @@
 
 - メールと電話両方のデータを受信してメーラーの用に見れる管理画面の作成を行いました。
 
-- メール受信は qdmail_receiver で行い、電話のデータは Asterisk の phpagi で着信時の記録を postgreSQL のＤＢに保存しました。
+- メール受信は qdmail_receiver で行い、電話のデータは Asterisk の phpagi で着信時の記録を postgreSQL の DB に保存しました。
 
-- システムの内容的に SPA .js を導入しました。
+- システムの内容的に SPA が望ましかったため、 Riot.js を導入しました。
 
 ### Vue.js による業務機関システムの開発
 
@@ -88,11 +88,11 @@
 
 - メディア関係企業様の Nuxt.js での管理画面の改修に携わりました。
 
-### Nuxt.js によるwebアプリ開発
+### Nuxt.js による web アプリ開発
 
 2020 年 5 月～ 2020 年 8 月
 
-- Nuxt.jsでの新規webアプリ開発に携わりました。この案件でNuxt.js×TypeScriptの構成での開発に慣れることができました。
+- Nuxt.js での新規 web アプリ開発に携わりました。この案件で Nuxt.js×TypeScript の構成での開発に慣れることができました。
 
 ## 個人開発物
 
