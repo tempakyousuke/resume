@@ -6,7 +6,7 @@
 | -------- | -------------------------------------------------------- |
 | Name     | 丸山 恭輔                                                |
 | Birth    | 1990/10/13                                               |
-| Location | 東京都調布市                                             |
+| Location | 長野県豊丘村                                             |
 | Github   | [tempakyousuke](https://github.com/tempakyousuke/resume) |
 
 ## 趣味等
