@@ -85,7 +85,7 @@
 
 2020 年 3月
 
-- Vscodeの拡張機能作成に従事
+- Vscode の拡張機能作成に従事
 
 ### Nuxt.js による管理画面システムの改修
 
@@ -102,29 +102,29 @@
 
 2020 年 9 月～ 2020 年 3 月
 
-- Nuxt.js * Firebase での新規 web アプリ開発に従事
-- agoraを利用した動画の配信システムを開発
+- Nuxt.js, Firebase での新規 web アプリ開発に従事
+- agora を利用した動画の配信システムを開発
 ### Nuxt.js * Firebase による web アプリ開発
 
 2021 年 4 月～ 2021 年 9 月
 
-- Laravel * Nuxt.js での新規 web アプリ開発に従事
-- Stripeを利用したweb決済システムを開発
+- Laravel, Nuxt.js での新規 web アプリ開発に従事
+- Stripe を利用した web 決済システムを開発
 ### Nuxt.js * Firebase による web アプリ開発
 
 2021 年 9 月～ 現在
 
-- Nuxt.js * Firebase での新規 web アプリ開発に従事
-- Stripeによる定期購入システムを開発
+- Nuxt.js, Firebase での新規 web アプリ開発に従事
+- Stripe による定期購入システムを開発
 
 ## 個人開発物
 
 ### 王様のかくれんぽ
 
-Nuxt.js と Firebase で開発したついたて詰将棋を投稿できるサイト
+Nuxt.js, Firebase で開発したついたて詰将棋を投稿できるサイト
 
 https://tsuitate.info/
 
 ### Azumayaブログ
 
-SvelteKit, Windi CSS, Firebaseで開発したブログ
+SvelteKit, Windi CSS, Firebase で開発したブログ
