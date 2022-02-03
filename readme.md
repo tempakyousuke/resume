@@ -23,9 +23,8 @@
 | cakephp1 ～ 3          | cake3 系に関しては API としてしか利用したことがありません。                                                           |
 | Laravel                | 参画案件で半年間利用しました。                                                                                        |
 | JavaScript・TypeScript | 最近は Vue.js でサイトを作っている関係で一番触っている言語です。                                                      |
-| Jquery                 | メンテナンスはできますが、最近は簡単な作業も CDN から Vue.js を読み込んで行ってます。                                 |
 | Nuxt.js/Vue.js         | 実務で web アプリ開発に利用して来ました。個人開発でも利用してます。                                                   |
-| Rios.js                | Vue.js の前に実務で利用。Vue.js の方が公開されている package が多いので、今のところ今後の開発で使う予定はありません。 |
+| Riot.js                | Vue.js の前に実務で利用。Vue.js の方が公開されている package が多いので、今のところ今後の開発で使う予定はありません。 |
 | postgreSQL             | 簡単な問い合わせやテーブル作成は問題なくできます。                                                                    |
 | CSS                    | デザインを与えられれば概ねをそれを再現できます。                                                                      |
 | Firebase               | hosting と firestore を個人開発で利用経験あり。                                                                       |
