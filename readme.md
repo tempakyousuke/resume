@@ -125,7 +125,7 @@ Nuxt.js, Firebase で開発したついたて詰将棋を投稿できるサイ�
 
 https://tsuitate.info/
 
-### Azumayaブログ
+### Azumaya Blog
 
 SvelteKit, Windi CSS, Firebase で開発したブログ
 
