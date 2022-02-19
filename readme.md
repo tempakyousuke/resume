@@ -121,7 +121,7 @@
 
 ### 王様のかくれんぽ
 
-Nuxt.js, Firebase で開発したついたて詰将棋を投稿できるサイト
+SvelteKit, Windi CSS, Firebase で開発したついたて詰将棋を投稿できるサイト(2022年2月にNuxtからSvelteKitにリプレイス完了)
 
 https://tsuitate.info/
 
