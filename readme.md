@@ -99,33 +99,40 @@
 2020 年 5 月～ 2020 年 8 月
 
 - Nuxt.js での新規 web アプリ開発に従事
-### Nuxt.js による web アプリ開発
+
+### Nuxt.js * Firebase による web アプリ開発
 
 2020 年 9 月～ 2021 年 3 月
 
 - Nuxt.js, Firebase での新規 web アプリ開発に従事
 - agora を利用した動画の配信システムを開発
-### Nuxt.js * Firebase による web アプリ開発
+
+### Laravel * Nuxt.js による web 決済システムの開発
 
 2021 年 4 月～ 2021 年 9 月
 
 - Laravel, Nuxt.js での新規 web アプリ開発に従事
 - Stripe を利用した web 決済システムを開発
 
-### Nuxt.js * Firebase による web アプリ開発
+### Nuxt.js * Firebase による定期購入システムの開発
 
 2021 年 9 月 〜 2022 年 3 月
 
 - Nuxt.js, Firebase での新規 web アプリ開発に従事
 - Stripe による定期購入システムを開発
 
-2022 年 3 月 〜 2025年 1 月
+### Ruby on Rails * Laravel によるレンタカーサイト・業務アプリ開発
+
+2022 年 3 月 〜 2025 年 1 月
 
 - レンタカーサイトの開発に携わる
   - Ruby on Railsによるサイトのリニューアルやその後の追加機能開発
   - Laravelで業務用のアプリを開発
 
-2025 年 2月 〜
+### React Native * Laravel によるマッチングアプリ開発
+
+2025 年 2 月 〜
+
 - React, React Native, Laravelでのマッチングアプリの開発に従事
 
 ## 個人開発物
