@@ -111,6 +111,7 @@
 
 - Laravel, Nuxt.js での新規 web アプリ開発に従事
 - Stripe を利用した web 決済システムを開発
+
 ### Nuxt.js * Firebase による web アプリ開発
 
 2021 年 9 月 〜 2022 年 3 月
@@ -118,20 +119,25 @@
 - Nuxt.js, Firebase での新規 web アプリ開発に従事
 - Stripe による定期購入システムを開発
 
-2022 年 3 月 〜 11 月
+2022 年 3 月 〜 2025年 1 月
 
-- Ruby on Railsでのサイトのリニューアル開発に従事
+- レンタカーサイトの開発に携わる
+  - Ruby on Railsによるサイトのリニューアルやその後の追加機能開発
+  - Laravelで業務用のアプリを開発
+
+2025 年 2月 〜
+- React, React Native, Laravelでのマッチングアプリの開発に従事
 
 ## 個人開発物
 
 ### 王様のかくれんぽ
 
-SvelteKit, Windi CSS, Firebase で開発したついたて詰将棋を投稿できるサイト(2022年2月にNuxtからSvelteKitにリプレイス完了)
+SvelteKit, Firebase で開発したついたて詰将棋を投稿できるサイト(2022年2月にNuxtからSvelteKitにリプレイス完了)
 
 https://tsuitate.info/
 
-### Azumaya Blog
+### Practicing Irish tunes with hatao's YouTube
 
-SvelteKit, Windi CSS, Firebase で開発したブログ
+アイリッシュフルート奏者のhataoさんの動画を閲覧でき、アイリッシュ音楽の各曲の練習記録をつけられるサイト
 
-https://blog-893dd.web.app
+https://learn-irish-82f09.web.app
