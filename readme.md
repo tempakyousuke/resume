@@ -19,16 +19,19 @@
 
 | 言語・フレームワーク   | 備考                                             |
 | ---------------------- | ------------------------------------------------ |
-| php                    | 最初の会社に入社後に初めて６年ほどの開発経験あり |
+| PHP                    | 最初の会社に入社後に初めて６年ほどの開発経験あり |
 | cakephp1 ～ 3          | cake3 系に関してはAPIサーバーとしてのみ利用      |
 | Laravel                | 参画案件で利用                                   |
 | Ruby on Rails          | 参画案件で利用                                   |
 | JavaScript・TypeScript | 現在一番利用頻度が高い言語                       |
 | Nuxt.js/Vue.js         | 実務で web アプリ開発に利用。個人開発でも利用    |
+| React/React Native     | マッチングアプリ案件で実務利用                   |
+| SvelteKit              | 個人開発（王様のかくれんぼ）で利用               |
 | Riot.js                | Vue.js の前に実務で利用                          |
-| postgreSQL             | 簡単な問い合わせやテーブル作成は問題なし         |
-| CSS                    | デザインを与えられれば概ねそれを再現可能       |
+| PostgreSQL             | 簡単な問い合わせやテーブル作成は問題なし         |
+| CSS                    | デザインを与えられれば概ねそれを再現可能         |
 | Firebase               | 個人開発・業務で長期間の利用経験あり             |
+| Stripe                 | 決済システム・定期購入システムで利用             |
 
 ## 職務経歴
 
@@ -51,7 +54,7 @@
 
 ### 成果報酬型の求人サイトの開発
 
-2015 年～現在（2020 年 4 月）
+2015 年～ 2020 年 3 月
 
 - cakephp によるサイトの継続的な修正や機能追加に従事
 - cakephp から cakephp2 への変更とレスポンシブデザインへのリニューアルを担当
@@ -82,11 +85,11 @@
 
 - アパレル系 EC サイトの管理画面に 2 ヶ月間従事
 
-### Vscodeの拡張機能開発
+### VS Code の拡張機能開発
 
-2020 年 3月
+2020 年 3 月
 
-- Vscode の拡張機能作成に従事
+- VS Code の拡張機能作成に従事
 
 ### Nuxt.js による管理画面システムの改修
 
@@ -100,28 +103,28 @@
 
 - Nuxt.js での新規 web アプリ開発に従事
 
-### Nuxt.js * Firebase による web アプリ開発
+### Nuxt.js × Firebase による web アプリ開発
 
 2020 年 9 月～ 2021 年 3 月
 
 - Nuxt.js, Firebase での新規 web アプリ開発に従事
 - agora を利用した動画の配信システムを開発
 
-### Laravel * Nuxt.js による web 決済システムの開発
+### Laravel × Nuxt.js による web 決済システムの開発
 
 2021 年 4 月～ 2021 年 9 月
 
 - Laravel, Nuxt.js での新規 web アプリ開発に従事
 - Stripe を利用した web 決済システムを開発
 
-### Nuxt.js * Firebase による定期購入システムの開発
+### Nuxt.js × Firebase による定期購入システムの開発
 
 2021 年 9 月 〜 2022 年 3 月
 
 - Nuxt.js, Firebase での新規 web アプリ開発に従事
 - Stripe による定期購入システムを開発
 
-### Ruby on Rails * Laravel によるレンタカーサイト・業務アプリ開発
+### Ruby on Rails × Laravel によるレンタカーサイト・業務アプリ開発
 
 2022 年 3 月 〜 2025 年 1 月
 
@@ -129,7 +132,7 @@
   - Ruby on Railsによるサイトのリニューアルやその後の追加機能開発
   - Laravelで業務用のアプリを開発
 
-### React Native * Laravel によるマッチングアプリ開発
+### React Native × Laravel によるマッチングアプリ開発
 
 2025 年 2 月 〜
 
@@ -139,7 +142,7 @@
 
 ### 王様のかくれんぼ
 
-SvelteKit, Firebase で開発したついたて詰将棋を投稿できるサイト(2022年2月にNuxtからSvelteKitにリプレイス完了)
+SvelteKit, Firebase で開発したついたて詰将棋を投稿できるサイト
 
 https://tsuitate.info/
 
